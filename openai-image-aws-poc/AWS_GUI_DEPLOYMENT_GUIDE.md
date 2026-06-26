@@ -1,14 +1,6 @@
 # AWS Console Deployment Guide
 
-This guide shows how to deploy the OpenAI Image Generator POC using the AWS Management Console in a very explicit, step-by-step way.
-
-It is written for students who need every step spelled out, including:
-
-- what AWS service to open
-- what resource to create
-- what values to enter
-- what names to use
-- what output to save for the next step
+This guide shows how to deploy the OpenAI Image Generator POC using the AWS Management Console.
 
 This guide covers:
 
